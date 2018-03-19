@@ -11,7 +11,7 @@ Entradas:
 
 + 2 sensores de temperatura analogicos. 
 + Sensor de caudal FS400A, configurado como interrupcion externa.
-+
++ Sensor de 
 
 Salidas:
 =
