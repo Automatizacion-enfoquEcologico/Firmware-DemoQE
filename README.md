@@ -1,10 +1,9 @@
 # Firmware-DemoQE
 
-# prueba
+PRUEBA
+==========
 
-
-
-My New App
+Programa en C que ejecuta un microcontrolador MC9S08QE128 de FREESCALE
 
 Este es el README de mi nueva aplicación MyNewApp.
 
